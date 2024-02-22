@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-1
+1 2
